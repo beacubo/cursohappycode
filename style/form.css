@@ -1,0 +1,122 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400i|Roboto&display=swap');
+
+/* .main-structure{
+    background-color: black;
+} */
+
+/* INICIO HEADER */
+.div-header{
+    position: relative;
+    height: 200px;
+}
+
+.div-header img{
+    position: relative;
+    width: 100%;
+}
+
+.div-conteudo{
+    text-align: left;
+    position: relative;
+}
+
+h2 {
+    color: black;
+    font-size: 32px;
+    font-family: 'Roboto', sans-serif;
+    top: 100px;
+    margin: 20px;
+}
+/* FIM HEADER */
+
+/* INICIO CONTEUDO */
+
+.card{
+    color: black;
+    font-size: 16px;
+    font-family: 'Roboto', sans-serif;
+    margin: 15px;
+}
+
+.lead{
+    font-size: 22px;
+    font-style: oblique;
+    text-decoration: underline;
+    text-decoration-color: red;
+}
+
+.black-block{
+    border-color: black;
+    height: 20px;
+    background-color: black;
+    margin: 15px;
+}
+
+.black-block2{
+    border-color: black;
+    height: 20px;
+    background-color: black;
+}
+
+.espaco{
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+/* FIM CONTEUDO */
+
+/* INICIO FORM */
+
+.estrutura-form{
+    margin: 20px;
+}
+
+.form-topicos{
+    font-family: 'Roboto', sans-serif;
+    color: black;
+    font-size: 16px;
+    font-style: inherit;
+    font    
+}
+
+input[type="file"]{
+    display: none;
+}
+
+.anexar{
+    color: whitesmoke;
+    background-color: black;
+    /* font-size: 16px; */
+    text-align: center;
+    border: whitesmoke;
+    width: 450px;
+    height: 36px;
+    display: inline-block;
+    cursor: pointer;
+    border-radius: 3px;
+    text-decoration: none;
+    padding-top: 5px;
+    position: absolute;
+    top: 33px;
+}
+
+/* .linebreak{
+    line;
+} */
+
+/* FIM FORM */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
